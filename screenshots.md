@@ -6,7 +6,7 @@ The bot reacts to messages if the number typed follows the correct sequence
 ![image](https://user-images.githubusercontent.com/96406256/163772878-81d70c89-906b-46ea-a10a-a1012270f42a.png)  
 Reacts to messages and gives the prompts for the next number
 
-## Help command and list of availabe commands  
+## Help command and list of available commands  
 ![image](https://user-images.githubusercontent.com/96406256/163773033-bcc7957d-1a8f-4d4c-a9ef-a49e5e3a2155.png)  
 
 ## Guide to users on how the bot works  
